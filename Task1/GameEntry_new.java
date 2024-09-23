@@ -10,7 +10,7 @@ public class GameEntry {
 
       
      
-    public GameEntry(String name, int score) {        //Constructs a new GameEntry with the specified player's name and score.
+    public GameEntry(String name, int score) {    //Constructs a new GameEntry with the specified player's name and score.
         this.playerName = name;
         this.score = score;
     }
